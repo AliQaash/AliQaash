@@ -21,7 +21,7 @@ Looking for remote junior developer roles where I ship fast.
 
 ## Stack
 
-- **Languages:** JavaScript, TypeScript, Python, Kotlin, Dart, Java
+- **Languages:** JavaScript, Python, Kotlin, Dart, Java
 - **Backend:** Node.js, Express, MongoDB, Firestore, Firebase Auth
 - **Frontend:** React, Flutter
 - **LLM & APIs:** Groq, Ollama, prompt engineering for structured output
