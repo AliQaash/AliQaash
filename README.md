@@ -34,7 +34,7 @@ Junior developer roles, remote or on-site. I'm strongest with **JavaScript/Node/
 
 ## Links
 
-📄 [Resume](https://bit.ly/4bjDYmt)  
+📄 [Resume](https://bit.ly/aliqaash-resume)  
 💼 [LinkedIn](https://linkedin.com/in/aliqaash)  
 📧 aliqaash@gmail.com  
 📱 WhatsApp: +92 304 4809287
